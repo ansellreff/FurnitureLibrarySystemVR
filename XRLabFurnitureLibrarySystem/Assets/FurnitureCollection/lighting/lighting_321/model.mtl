@@ -1,0 +1,60 @@
+newmtl lightmesh_001_wire
+
+d 1
+Tr 0
+Tf 1.000000 1.000000 1.000000
+illum 2
+Ka 0.039216 0.027451 0.027451
+Kd 0.039216 0.027451 0.027451
+Ks 0.278431 0.278431 0.278431
+Ke 0.000000 0.000000 0.000000
+
+map_Ka ./texture.png
+map_Kd ./texture.png
+
+
+newmtl lightmesh_002_wire
+
+d 1
+Tr 0
+Tf 1.000000 1.000000 1.000000
+illum 2
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.350000 0.350000 0.350000
+Ke 0.600000 0.600000 0.600000
+
+map_Ka ./texture.png
+map_Kd ./texture.png
+
+
+newmtl lightmesh_003_wire
+
+d 1
+Tr 0
+Tf 1.000000 1.000000 1.000000
+illum 2
+Ka 0.039216 0.027451 0.027451
+Kd 0.039216 0.027451 0.027451
+Ks 0.278431 0.278431 0.278431
+Ke 0.000000 0.000000 0.000000
+
+map_Ka ./texture.png
+map_Kd ./texture.png
+
+
+newmtl lightmesh_004_wire
+
+d 1
+Tr 0
+Tf 1.000000 1.000000 1.000000
+illum 2
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.350000 0.350000 0.350000
+Ke 0.600000 0.600000 0.600000
+
+map_Ka ./texture.png
+map_Kd ./texture.png
+
+

@@ -1,0 +1,74 @@
+{
+    "name": "NewVRControls",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "77a59b40-a17d-473d-a585-23fb52ba00a2",
+            "actions": [
+                {
+                    "name": "Pause",
+                    "type": "Button",
+                    "id": "0375c679-ed03-480c-8311-2002e449fb22",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Destroy",
+                    "type": "Button",
+                    "id": "f62f8a3a-384e-4979-aa3d-b76353ded852",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Pause1",
+                    "type": "Button",
+                    "id": "272bd302-f27d-41be-b7e7-af16b6a5870d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f69bc6ae-183c-4a28-b919-a04c85bf7c59",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9b10d742-1503-4606-bc49-081631ee5829",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Destroy",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2a881b74-3965-4883-8d4c-6eae325ffd33",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

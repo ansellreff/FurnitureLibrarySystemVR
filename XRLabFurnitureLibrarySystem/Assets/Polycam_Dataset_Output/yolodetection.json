@@ -1,0 +1,364 @@
+{
+  "predictions": [
+    {
+      "x": 0,
+      "y": 193,
+      "width": 637,
+      "height": 308,
+      "confidence": 0.6273894906044006,
+      "class": "Bed",
+      "filename": "XRLabBed1.png",
+      "directory": "Bed\\XRLabBed1"
+    },
+    {
+      "x": 35,
+      "y": 26,
+      "width": 559,
+      "height": 559,
+      "confidence": 0.68436598777771,
+      "class": "Bed",
+      "filename": "XRLabBed2.png",
+      "directory": "Bed\\XRLabBed2"
+    },
+    {
+      "x": 91,
+      "y": 141,
+      "width": 489,
+      "height": 443,
+      "confidence": 0.9523510336875916,
+      "class": "Bed",
+      "filename": "XRLabBed3.png",
+      "directory": "Bed\\XRLabBed3"
+    },
+    {
+      "x": 39,
+      "y": 96,
+      "width": 554,
+      "height": 512,
+      "confidence": 0.8796647191047668,
+      "class": "Bed",
+      "filename": "XRLabBed4.png",
+      "directory": "Bed\\XRLabBed4"
+    },
+    {
+      "x": 32,
+      "y": 103,
+      "width": 562,
+      "height": 463,
+      "confidence": 0.9568445682525635,
+      "class": "Bed",
+      "filename": "XRLabBed5.png",
+      "directory": "Bed\\XRLabBed5"
+    },
+    {
+      "x": 141,
+      "y": 13,
+      "width": 389,
+      "height": 595,
+      "confidence": 0.9638693332672119,
+      "class": "Chair",
+      "filename": "XRLabChair1.png",
+      "directory": "Chair\\XRLabChair1"
+    },
+    {
+      "x": 132,
+      "y": 38,
+      "width": 388,
+      "height": 575,
+      "confidence": 0.9684138298034668,
+      "class": "Chair",
+      "filename": "XRLabChair2.png",
+      "directory": "Chair\\XRLabChair2"
+    },
+    {
+      "x": 131,
+      "y": 60,
+      "width": 378,
+      "height": 508,
+      "confidence": 0.9571532011032104,
+      "class": "Chair",
+      "filename": "XRLabChair3.png",
+      "directory": "Chair\\XRLabChair3"
+    },
+    {
+      "x": 136,
+      "y": 45,
+      "width": 374,
+      "height": 561,
+      "confidence": 0.9579724669456482,
+      "class": "Chair",
+      "filename": "XRLabChair4.png",
+      "directory": "Chair\\XRLabChair4"
+    },
+    {
+      "x": 172,
+      "y": 41,
+      "width": 310,
+      "height": 571,
+      "confidence": 0.9358154535293579,
+      "class": "Chair",
+      "filename": "XRLabChair5.png",
+      "directory": "Chair\\XRLabChair5"
+    },
+    {
+      "x": 151,
+      "y": 60,
+      "width": 333,
+      "height": 528,
+      "confidence": 0.924920916557312,
+      "class": "Chair",
+      "filename": "XRLabChair6.png",
+      "directory": "Chair\\XRLabChair6"
+    },
+    {
+      "x": 155,
+      "y": 8,
+      "width": 313,
+      "height": 614,
+      "confidence": 0.9528035521507263,
+      "class": "Chair",
+      "filename": "XRLabChair7.png",
+      "directory": "Chair\\XRLabChair7"
+    },
+    {
+      "x": 96,
+      "y": 11,
+      "width": 444,
+      "height": 613,
+      "confidence": 0.8055161833763123,
+      "class": "Chair",
+      "filename": "XRLabChair8.png",
+      "directory": "Chair\\XRLabChair8"
+    },
+    {
+      "x": 93,
+      "y": 106,
+      "width": 458,
+      "height": 439,
+      "confidence": 0.8874545693397522,
+      "class": "Chair",
+      "filename": "XRLabChair9.png",
+      "directory": "Chair\\XRLabChair9"
+    },
+    {
+      "x": 116,
+      "y": 7,
+      "width": 429,
+      "height": 605,
+      "confidence": 0.9616782665252686,
+      "class": "Chair",
+      "filename": "XRLabChair10.png",
+      "directory": "Chair\\XRLabChair10"
+    },
+    {
+      "x": 147,
+      "y": 27,
+      "width": 338,
+      "height": 573,
+      "confidence": 0.9389283061027527,
+      "class": "Chair",
+      "filename": "XRLabChair11.png",
+      "directory": "Chair\\XRLabChair11"
+    },
+    {
+      "x": 90,
+      "y": 56,
+      "width": 476,
+      "height": 556,
+      "confidence": 0.9709483981132507,
+      "class": "Chair",
+      "filename": "XRLabChair12.png",
+      "directory": "Chair\\XRLabChair12"
+    },
+    {
+      "x": 161,
+      "y": 45,
+      "width": 330,
+      "height": 568,
+      "confidence": 0.9625934958457947,
+      "class": "Chair",
+      "filename": "XRLabChair13.png",
+      "directory": "Chair\\XRLabChair13"
+    },
+    {
+      "x": 171,
+      "y": 2,
+      "width": 328,
+      "height": 616,
+      "confidence": 0.9498541355133057,
+      "class": "Chair",
+      "filename": "XRLabChair14.png",
+      "directory": "Chair\\XRLabChair14"
+    },
+    {
+      "x": 119,
+      "y": 2,
+      "width": 417,
+      "height": 612,
+      "confidence": 0.9324167370796204,
+      "class": "Chair",
+      "filename": "XRLabChair15.png",
+      "directory": "Chair\\XRLabChair15"
+    },
+    {
+      "x": 190,
+      "y": 49,
+      "width": 269,
+      "height": 571,
+      "confidence": 0.8612967133522034,
+      "class": "Lighting",
+      "filename": "XRLabLighting1.png",
+      "directory": "Lighting\\XRLabLighting1"
+    },
+    {
+      "x": 205,
+      "y": 57,
+      "width": 257,
+      "height": 515,
+      "confidence": 0.7076543569564819,
+      "class": "Lighting",
+      "filename": "XRLabLighting2.png",
+      "directory": "Lighting\\XRLabLighting2"
+    },
+    {
+      "x": 148,
+      "y": 4,
+      "width": 339,
+      "height": 546,
+      "confidence": 0.7581799030303955,
+      "class": "Lighting",
+      "filename": "XRLabLighting3.png",
+      "directory": "Lighting\\XRLabLighting3"
+    },
+    {
+      "x": 146,
+      "y": 10,
+      "width": 363,
+      "height": 588,
+      "confidence": 0.8171017169952393,
+      "class": "Lighting",
+      "filename": "XRLabLighting4.png",
+      "directory": "Lighting\\XRLabLighting4"
+    },
+    {
+      "x": 111,
+      "y": 2,
+      "width": 423,
+      "height": 631,
+      "confidence": 0.7786101698875427,
+      "class": "Lighting",
+      "filename": "XRLabLighting5.png",
+      "directory": "Lighting\\XRLabLighting5"
+    },
+    {
+      "x": 4,
+      "y": 135,
+      "width": 625,
+      "height": 346,
+      "confidence": 0.9772024154663086,
+      "class": "Sofa",
+      "filename": "XRLabSofa1.png",
+      "directory": "Sofa\\XRLabSofa1"
+    },
+    {
+      "x": 5,
+      "y": 165,
+      "width": 614,
+      "height": 349,
+      "confidence": 0.9709619879722595,
+      "class": "Sofa",
+      "filename": "XRLabSofa2.png",
+      "directory": "Sofa\\XRLabSofa2"
+    },
+    {
+      "x": 6,
+      "y": 129,
+      "width": 627,
+      "height": 353,
+      "confidence": 0.9770358800888062,
+      "class": "Sofa",
+      "filename": "XRLabSofa3.png",
+      "directory": "Sofa\\XRLabSofa3"
+    },
+    {
+      "x": 8,
+      "y": 121,
+      "width": 603,
+      "height": 365,
+      "confidence": 0.9721986651420593,
+      "class": "Sofa",
+      "filename": "XRLabSofa4.png",
+      "directory": "Sofa\\XRLabSofa4"
+    },
+    {
+      "x": 19,
+      "y": 104,
+      "width": 606,
+      "height": 372,
+      "confidence": 0.9209224581718445,
+      "class": "Sofa",
+      "filename": "XRLabSofa5.png",
+      "directory": "Sofa\\XRLabSofa5"
+    },
+    {
+      "x": 121,
+      "y": 197,
+      "width": 403,
+      "height": 325,
+      "confidence": 0.5032117962837219,
+      "class": "Sofa",
+      "filename": "XRLabSofa6.png",
+      "directory": "Sofa\\XRLabSofa6"
+    },
+    {
+      "x": 1,
+      "y": 166,
+      "width": 634,
+      "height": 277,
+      "confidence": 0.8223075866699219,
+      "class": "Table",
+      "filename": "XRLabTable1.png",
+      "directory": "Table\\XRLabTable1"
+    },
+    {
+      "x": 30,
+      "y": 170,
+      "width": 580,
+      "height": 331,
+      "confidence": 0.948896050453186,
+      "class": "Table",
+      "filename": "XRLabTable2.png",
+      "directory": "Table\\XRLabTable2"
+    },
+    {
+      "x": 65,
+      "y": 106,
+      "width": 537,
+      "height": 530,
+      "confidence": 0.7623583674430847,
+      "class": "Table",
+      "filename": "XRLabTable3.png",
+      "directory": "Table\\XRLabTable3"
+    },
+    {
+      "x": 40,
+      "y": 113,
+      "width": 570,
+      "height": 518,
+      "confidence": 0.8922728896141052,
+      "class": "Chair",
+      "filename": "XRLabChair16.png",
+      "directory": "Chair\\XRLabChair16"
+    },
+    {
+      "x": 1,
+      "y": 212,
+      "width": 634,
+      "height": 290,
+      "confidence": 0.6652224063873291,
+      "class": "Table",
+      "filename": "XRLabTable4.png",
+      "directory": "Table\\XRLabTable4"
+    }
+  ]
+}
